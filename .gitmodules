@@ -1,0 +1,9 @@
+[submodule "segment-anything"]
+	path = segment-anything
+	url = https://github.com/facebookresearch/segment-anything
+[submodule "yolov5"]
+	path = yolov5
+	url = https://github.com/ultralytics/yolov5
+[submodule "FastSAM"]
+	path = FastSAM
+	url = https://github.com/CASIA-IVA-Lab/FastSAM
