@@ -1,1 +1,9 @@
-
+opencv-python~=4.8.1.78
+torch~=2.1.0
+numpy~=1.26.1
+Pillow~=10.0.1
+torchvision~=0.16.0
+supervision~=0.15.0
+matplotlib~=3.8.0
+setuptools~=68.2.0
+onnxruntime~=1.16.1
